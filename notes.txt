@@ -1,0 +1,6 @@
+编译并运行游戏	gradlew runClient
+与runServer不同的是：模组里包含了粒子效果和声音，这些画面和声音渲染是客户端的功能
+
+打包成 JAR 文件	gradlew build
+
+清理项目缓存	gradlew clean
